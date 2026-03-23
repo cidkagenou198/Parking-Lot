@@ -179,10 +179,4 @@ java Main
 * REST API integration
 * Database support
 
----
 
-## Author
-
-j harish reddy
-
----
